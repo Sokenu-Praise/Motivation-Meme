@@ -1,0 +1,33 @@
+h1{
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+   color:white;
+   text-align: center;
+
+}
+*{
+    background-color: black;
+}
+#pic{
+    border: 5px solid white;
+    width: 100%;
+}
+#div{
+    border-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+h3{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+
+  
+   color:white;
+   text-align: center;
+}
